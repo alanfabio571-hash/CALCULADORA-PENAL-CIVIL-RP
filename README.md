@@ -1,3 +1,3 @@
-# Calculadora_Penal_ABCD
+# Calculadora_Penal
 Desenvolvida por CIVIL
 Editada e Publicada por CIVIL
