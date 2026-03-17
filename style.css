@@ -427,3 +427,7 @@ button:hover {
         font-size: 12px;
     }
 }
+.selecionado{
+background:#2ecc71;
+color:white;
+}
